@@ -1,2 +1,2 @@
 # Personal_Blog
-Practicing Development in Bit 
+Practicing Development in NextJS 
